@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @ daryach1
+- 👋 Hi, I'm DARYA CHERCASOVA
 - 👀 I am interested in programming
 - 🌱 I'm currently studying to be a programmer, learning Java, C#
 
